@@ -28,7 +28,7 @@ include('includes/header.php');
 
 <div class="section page">
 	<div class="wrapper">
-		<h1>Contact</h1>
+		<h1>Contact Mike</h1>
 
 		<?php
 			if(isset($_GET["status"]) and $_GET["status"] == "invalid"){
